@@ -1,7 +1,7 @@
 # TableauFinancialCrashDashboard
-This repository is for a dashboard I created as part of my University coursework investigating the effects of the 2007-2008 global financial crash on economies in Eastern Europe &amp; Latin America.
+This repository is for a dashboard I created as part of my University coursework investigating the effects of the 2007-2008 global financial crash on economies in Eastern Europe &amp; the Americas.
 
-The purpose of this project was to create a dashboard using data from the World Bank to tell a clear story that can be used on a website for an NGO investigating world developement. For this project, I focussed on economic performance before, during and after the 2007-2008 global financial crash of selected countries from Eastern Europe and Latin America from both high income and upper middle income groups as defined by the World Bank. 
+The purpose of this project was to create a dashboard using data from the World Bank to tell a clear story that can be used on a website for an NGO investigating world developement. For this project, I focussed on economic performance before, during and after the 2007-2008 global financial crash of selected countries from Eastern Europe and the Americas from both high income and upper middle income groups as defined by the World Bank. 
 
 The dashboard was created in Tableau with some interactivity to easily compare regions and income groups. Tableau's Story mode was utilised as the main purpose of this dashboard is to explain the effect of the global financial crash on the selected countries rather than for the user to explore the data.
 
