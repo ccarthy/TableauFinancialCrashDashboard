@@ -5,7 +5,7 @@ The purpose of this project was to create a dashboard using data from the World 
 
 The dashboard was created in Tableau with some interactivity to easily compare regions and income groups. Tableau's Story mode was utilised as the main purpose of this dashboard is to explain the effect of the global financial crash on the selected countries rather than for the user to explore the data.
 
-The dashboard has been uploaded to Tableau Public and can be access here: https://public.tableau.com/app/profile/conor.carthy/viz/GlobalFinancialCrisisAmericasEasternEurope/FinanicalCrisisStory
+The dashboard has been uploaded to Tableau Public and can be accessed here: https://public.tableau.com/app/profile/conor.carthy/viz/GlobalFinancialCrisisAmericasEasternEurope/FinanicalCrisisStory
 
 All data used in this project came from the following World Bank database: https://databank.worldbank.org/source/world-development-indicators
 
